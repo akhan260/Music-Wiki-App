@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string-array name="Songs">
+        <item>Yummy</item>
+        <item>The Lazy Song</item>
+        <item>Hello</item>
+        <item>Perfect</item>
+    </string-array>
+    <string-array name="Artist">
+        <item>Justin Bieber</item>
+        <item>Bruno Mars</item>
+        <item>Adele</item>
+        <item>Ed Sheeran</item>
+    </string-array>
+</resources>
